@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SamurajWay/static/css/main.12a938ba.css",
+    "main.js": "/SamurajWay/static/js/main.cc05686b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SamurajWay/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SamurajWay/index.html",
+    "main.12a938ba.css.map": "/SamurajWay/static/css/main.12a938ba.css.map",
+    "main.cc05686b.js.map": "/SamurajWay/static/js/main.cc05686b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SamurajWay/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a938ba.css",
+    "static/js/main.cc05686b.js"
+  ]
+}
